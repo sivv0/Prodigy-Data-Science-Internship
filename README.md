@@ -24,3 +24,5 @@ A bar chart showing the distribution of the selected variable.
 ![Output 3](https://github.com/user-attachments/assets/525af9b0-3758-4aa9-bed4-b50ec4e74a12)
 
 ---
+
+Internship by [Prodigy InfoTech](https://github.com/Prodigy-InfoTech)
